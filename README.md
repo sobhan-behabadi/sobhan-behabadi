@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sobhan-behabadi
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Node.js & React.js & ReactNative & MongoDB
+- 🌱 I’m currently learning Node.js & React.js & next.js & ReactNative & MongoDB
 - 💞️ I’m looking to collaborate on Back-End. Actually, I want to work together.
 - 📫 How to reach me ...
 Email: sobhan.behabadi@yahoo.com
